@@ -1,0 +1,41 @@
+<filetype binary="false" description="Ruby" name="Ruby">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="alias;and;begin;break;case;do;else;elsif;end;if;in;next;not;or;raise;redo;rescue;retry;return;then;undef;unless;until;when;while;yield" ignore_case="false">
+      <keyword name=";" />
+    </keywords>
+    <keywords2 keywords="class;def;module" />
+    <keywords3 keywords="@;false;nil;self;super;true" />
+    <keywords4 keywords="each;inject;map;new;pp;print;puts;reduce;sleep" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="flashpolicy" />
+    <mapping pattern="varnish_admin" />
+    <mapping pattern="nginx_configurator" />
+    <mapping pattern="papertrading_metrics" />
+    <mapping pattern="nginx_close" />
+    <mapping pattern="s3_connection_metrix" />
+    <mapping pattern="kill_old_nginx_procs" />
+    <mapping pattern="varnish_configurator" />
+    <mapping pattern="build-process" />
+    <mapping pattern="proxy_healthcheck" />
+    <mapping pattern="tvbs_proxy_stats" />
+    <mapping pattern="proxy_api" />
+    <mapping pattern="nginx_stats" />
+    <mapping pattern="remove-tags" />
+    <mapping pattern="pushstream_stats" />
+    <mapping pattern="update_zabbix" />
+    <mapping ext="ru" />
+    <mapping ext="rb" />
+  </extensionMap>
+</filetype>
